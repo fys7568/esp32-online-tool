@@ -9,34 +9,33 @@ height="250">
 ESP32 是一款微控制器，集成了 Wi-Fi 和蓝牙。它将给我们在不同类型项目中提供便利解决方案，通常需要加载不同编译的程序固件来进行使用；
 
 
-Y como tengo pensado implementar una gran saga de videos donde aprenderemos a crear distintos tipos de controles bluetooth para nuestro dispositivos **BLUERETRO** ademas de compatibilidad adicional para la **NINTENDO SWITCH** y siguiendo el trabajo de [witnessmenow](https://github.com/witnessmenow/ESP-Web-Tools-Tutorial) he creado esta pagina simple que se actualizara constantemente con el lanzamiento de cada proyecto asociado a [mi canal de youtube](https://www.youtube.com/channel/UCewluu5y7lA4QnXBJa_AbwQ) de esta manera los invito a guardar en favoritos esta pagina que traera la creacion de multiples controles para todo tipo de consolas.
+我计划创作多个项目的视频教程，为我们的BLUERETRO设备制作不同类型的蓝牙手柄控制器并对**NINTENDO SWITCH**提供额外的兼容性， 同时遵循 [witnessmenow](https://github.com/witnessmenow/ESP-Web-Tools-Tutorial) 的项目，目前我创建了这个简单的网页，并随着 [我的youtube视频](https://www.youtube.com/channel/UCewluu5y7lA4QnXBJa_AbwQ) 不断的进行更新。通过这种方式，邀请朋友将此页收藏，该网页将展示所有的蓝牙手柄自制项目。
 
 <img src="imagenes/line.png"
 height="5">
 
-#### PROGRAMAR ESP32 PARA USAR COMO BLUERETRO EN LAS CONSOLAS
+#### 复古游戏机使用的ESP32固件 BLUERETRO
 
 <img src="imagenes/blueretro.png"
 height="200">
 
 
-Aqui podras programar facilmente tu ESP32 para usar en tus consolas retro
-sea de manera **INTERNA** o tambien de manera **EXTERNA**
-para simplificar el proceso de instalacion sin necesidad de instalas apps en tu pc
+在这里，您可以轻松地对ESP32刷入"BLUERETRO"固件，以便在复古游戏机上使用蓝牙。
+你可以通过使用**内置**或**扩展**的方式使用ESP32。
+简化安装过程，无需在 PC 上安装应用程序
 
 
-
-[CLIC AQUI PARA PROGRAMAR TU ESP32 CON "BLUERETRO"  1.8.3](blueretro.md).
-
-<img src="imagenes/line.png"
-height="5">
-<img src="imagenes/line.png"
-height="5">
+[点击这里对ESP32刷入"BLUERETRO" 1.8.3固件](blueretro.md).
 
 <img src="imagenes/line.png"
 height="5">
+<img src="imagenes/line.png"
+height="5">
 
-#### TOPPERCADE ESP32 CON LUZ para BLUERETRO y NINTENDO SWITCH!
+<img src="imagenes/line.png"
+height="5">
+
+#### TOPPEaRCADE ESP32 CON LUZ para BLUERETRO y NINTENDO SWITCH!
 
 <img src="imagenes/arcadeluz.png"
 height="200">
@@ -54,7 +53,7 @@ height="5">
 <img src="imagenes/line.png"
 height="5">
 
-#### CONTROL TIPO ARCADE ESP32 para BLUERETRO y NINTENDO SWITCH!
+#### 制作街机摇杆的ESP32兼容 BLUERETRO 和 NINTENDO SWITCH!
 
 <img src="imagenes/arcade.png"
 height="200">
@@ -71,24 +70,24 @@ En este proyecto crearemos una palanca tipo ARCADE compatible con todas las
 height="5">
 <img src="imagenes/line.png"
 height="5">
-#### CONTROL TIPO NES ONLINE PARA: NINTENDO SWITCH y BLUERETRO!
+#### 制作NES ONLINE 手柄兼容: NINTENDO SWITCH 和 BLUERETRO!
 
 <img src="imagenes/nes.png"
 height="200">
 
 
-En este proyecto crearemos un control
-NES ONLINE totalmente compatible con todas las 
-**NINTENDO SWITCH** Incluyendo sonidos y fondos distintivos en la aplicacion oficial **NES ONLINE**
+这个项目中我们将制作NES ONLINE手柄
+完全兼容所有**NINTENDO SWITCH** 
+并且像在**NES ONLINE**官方应用程序中包含独特的声音和背景 
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL CONTROL NES ONLINE y BLUERETRO! esp32 DIY ](nes.md).
+[单击此处对进行ESP32刷入固件！制作 NES ONLINE 和 BLUERETRO! 兼容的手柄 ](nes.md).
 <img src="imagenes/line.png"
 height="5">
 <img src="imagenes/line.png"
 height="5">
-#### SNES Online手柄，适用于：Nintendo Switch 和 BLUERETRO！
+#### 制作SNES Online手柄兼容：Nintendo Switch 和 BLUERETRO！
 
 <img src="imagenes/snes.png"
 height="200">
@@ -98,7 +97,7 @@ height="200">
 
 
 
-[单击此处对进行ESP32编程！制作 SNES Online和BLUERETRO 兼容的手柄 ](snes.md).
+[单击此处对进行ESP32刷入固件！制作 SNES Online和BLUERETRO 兼容的手柄 ](snes.md).
 <img src="imagenes/line.png"
 height="5">
 <img src="imagenes/line.png"
