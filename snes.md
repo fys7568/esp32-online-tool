@@ -64,7 +64,7 @@ height="300">
 
 点击这里下载高清图 [链接地址](https://www.mundoyakara.com/2022/09/como-hacer-control-snes-classic-edition.html)
 
-### MOD SFC PAD  1990  56V313A(双芯片手柄电路图接法)
+### MOD SFC PAD  1990  56V313A(双芯片手柄电路图)
 <img src="imagenes/SFC%20PAD%20%201990%20%2056V313A.jpg"
 height="300">
 
