@@ -25,7 +25,7 @@ height="200">
 简化安装过程，无需在 PC 上安装应用程序
 
 
-[点击这里对ESP32刷入"BLUERETRO" 1.8.3固件](blueretro.md).
+[点击这里查看ESP32自制项目"BLUERETRO" 1.8.3固件](blueretro.md).
 
 <img src="imagenes/line.png"
 height="5">
@@ -82,7 +82,7 @@ height="200">
 
 
 
-[单击此处对进行ESP32刷入固件！制作 NES ONLINE 和 BLUERETRO! 兼容的手柄 ](nes.md).
+[点击这里查看制作NES ONLINE和BLUERETRO兼容的手柄项目! esp32 DIY](nes.md).
 <img src="imagenes/line.png"
 height="5">
 <img src="imagenes/line.png"
@@ -97,7 +97,7 @@ height="200">
 
 
 
-[单击此处对进行ESP32刷入固件！制作 SNES Online和BLUERETRO 兼容的手柄 ](snes.md).
+[点击这里查看制作SNES Online和BLUERETRO 兼容的手柄项目! esp32 DIY](snes.md).
 <img src="imagenes/line.png"
 height="5">
 <img src="imagenes/line.png"
