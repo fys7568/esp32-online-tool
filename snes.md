@@ -48,7 +48,7 @@ height="5">
 height="5">
 
 
-#### tienes dudas de como HACER ESTE PROYECTO?
+#### 您对如何做这个项目有疑问?
 
 
 点击这里查看 [完整版视频教程youtube](https://youtu.be/1csYLMaxqUY)  
