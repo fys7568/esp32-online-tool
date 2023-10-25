@@ -1,13 +1,12 @@
-
+language-中文（简体）-Only Part
 
 <img src="imagenes/ESP.png"
 height="250">
 
+#### 这是关于什么的？
 
 
-#### de que trata?
-
-El ESP32 es un dispositivo que nos facilita la implementacion de distintos tipos de proyectos y su programacion normalmente requiere de software y programas adicionales para grabar diferentes tipos de firmware para cada uno de los proyectos; 
+ESP32 是一款微控制器，集成了 Wi-Fi 和蓝牙。它将给我们在不同类型项目中提供便利解决方案，通常需要加载不同编译的程序固件来进行使用；
 
 
 Y como tengo pensado implementar una gran saga de videos donde aprenderemos a crear distintos tipos de controles bluetooth para nuestro dispositivos **BLUERETRO** ademas de compatibilidad adicional para la **NINTENDO SWITCH** y siguiendo el trabajo de [witnessmenow](https://github.com/witnessmenow/ESP-Web-Tools-Tutorial) he creado esta pagina simple que se actualizara constantemente con el lanzamiento de cada proyecto asociado a [mi canal de youtube](https://www.youtube.com/channel/UCewluu5y7lA4QnXBJa_AbwQ) de esta manera los invito a guardar en favoritos esta pagina que traera la creacion de multiples controles para todo tipo de consolas.
@@ -89,19 +88,17 @@ NES ONLINE totalmente compatible con todas las
 height="5">
 <img src="imagenes/line.png"
 height="5">
-#### CONTROL TIPO SNES ONLINE PARA: NINTENDO SWITCH y BLUERETRO!
+#### SNES Online手柄，适用于：Nintendo Switch 和 BLUERETRO！
 
 <img src="imagenes/snes.png"
 height="200">
 
 
-En este nuevo proyecto crearemos un control
-SNES ONLINE totalmente compatible con todas las 
-**NINTENDO SWITCH** Incluyendo sonidos y fondos distintivos en la aplicacion oficial **SNES ONLINE**
+在这个新项目中，我们将使用旧的SNES/SFC手柄，制作一个完全兼容所有“Nintendo Switch”的SNE Online手柄，包括在官方“SNES ONLINE”应用程序中的独特声音和背景。
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL CONTROL genesis megadrive ONLINE y BLUERETRO! esp32 DIY ](snes.md).
+[单击此处对进行ESP32编程！制作 SNES Online和BLUERETRO 兼容的手柄 ](snes.md).
 <img src="imagenes/line.png"
 height="5">
 <img src="imagenes/line.png"
