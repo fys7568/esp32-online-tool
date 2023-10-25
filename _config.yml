@@ -1,4 +1,4 @@
 title: ESP32 ONLINE FLASH TOOL
-description: 直接从chrome/edge浏览器对esp32进行编程
+description: 从chrome/edge浏览器对esp32刷写固件
 theme: jekyll-theme-tactile
 twitter: mundoyakara
