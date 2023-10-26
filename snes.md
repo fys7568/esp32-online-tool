@@ -14,7 +14,7 @@ height="5">
 
 ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta proyecto de ARCADE **usaremos una version modificada** del [Blu N64](https://github.com/JPZV/BluN64-ESP32) que ha evolucionado hasta convertirse muy pronto en la solucion definitiva para crear todo tipo de controles bluetooth, convirtiendo directamente nuestros controles clasicos de cable en unos inalambricos asi que dejen volar su imaginacion mientras hacemos un control tipo **SNES**
 
-要在**BLUERETRO**和**NINTENDO SWITCH**设备之间切换兼容，只需同时按住**SELECT + START**按钮持续**10秒**即可。
+要在**BLUERETRO**和**NINTENDO SWITCH**设备之间切换模式，只需同时按住**SELECT + START**按钮持续**10秒**即可。
 
 这将使我们能够兼容各种类型的手柄控制器，包括我们自制的街机摇杆。
 而且更好的是, 
